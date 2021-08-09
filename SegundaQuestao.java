@@ -12,7 +12,7 @@ public class SegundaQuestao {
 			if(i % 2 == 0) {
 				System.out.println(i + " é par");
 			}
-			System.out.println("Alteração atividade TOO..")
+			System.out.println("Alteração atividade TOO....")
 		}
 	}
 }
